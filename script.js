@@ -1,1 +1,1 @@
-document.body.innerHTML="DOM load succes";
+document.body.innerText="DOM load succes";
